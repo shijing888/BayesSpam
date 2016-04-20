@@ -1,0 +1,44 @@
+Return-Path: <xu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9E8r8TJ006805
+	for <kang@ccert.edu.cn>; Thu, 14 Oct 2004 16:53:09 +0800 (CST)
+Received: (eyou send program); Thu, 14 Oct 2004 16:38:43 +0800
+Message-ID: <297743123.29546@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 14 Oct 2004 16:38:43 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 14 Oct 2004 08:38:38 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 14 Oct 2004 08:38:38 -0000
+Message-ID: <014201c4b1cb$323d1d80$a6e86fa6@sony>
+From: "xu" <xu@tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+References: <297741042.28949@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IL+0v7TV4rXAw+bK1Mzi1PXDtNH5o78=?=
+Date: Thu, 14 Oct 2004 16:52:53 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id i9E8r8TJ006805
+X-UIDL: P@B!!Ro<"!%l$"!@LQ"!
+
+假设队伍的速度为V1，传号兵的速度为V2，显然有V2 &gt; V1
+1）传号兵从队尾走到队头，设所花时间为T1，以队伍为参考系，传号兵的速度为V2 - V1
+       则  （V2 - V1）* T1 = 100 
+       解得： T1 = 100 / （V2 - V1）
+2）传号兵从队头走到队尾，设所花时间为T2，以队伍为参考系，传号兵的速度为V2 + V1
+       则  （V2 + V1）* T2 = 100 
+       解得： T2 = 100 / （V2 + V1）
+再以队伍为研究对象，速度为V1，总时间为 T1 + T2 ，行走路程为100，故有
+        V1 * [100/（V2 - V1）+ 100/（V2 + V1）] = 100
+整理得：V2*V2 - 2*V1*V2 - V1*V1 = 0
+        解得：V2 = （1 + sqrt(2)）* V1
+由于二者所花时间相同，所以传号兵走的路程是队伍的 1 + sqrt(2) 倍
+即： （1 + sqrt(2)）* 100 
+

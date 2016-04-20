@@ -1,0 +1,104 @@
+Return-Path: <zheng@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q7Or2Z007810
+	for <yi@ccert.edu.cn>; Tue, 26 Oct 2004 15:25:05 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 15:35:15 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 15:35:15 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 15:35:15 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 15:32:04 +0800
+Message-ID: <298775924.11062@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 26 Oct 2004 15:31:54 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9Q7iDlj005619
+	for <yi@ccert.edu.cn>; Tue, 26 Oct 2004 15:44:43 +0800
+Received: from compass.net.edu.cn (compass.net.edu.cn [202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9Q7i5kr005615
+	for <yi@ccert.edu.cn>; Tue, 26 Oct 2004 15:44:05 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id PAA25547
+	for <yi@ccert.edu.cn>;
+	Tue, 26 Oct 2004 15:37:01 +0800 (CST)
+Message-ID: <417DFD71.30602@compass.net.edu.cn>
+Date: Tue, 26 Oct 2004 15:32:01 +0800
+From: Shaozhi Ye <zheng@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: yi@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="------------090602070608080606050207"
+Cc: 
+Subject: [TOEFL] [Fwd: =?gb2312?b?x+vM7tC0sc/Stcnqx+ux7bjxXQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 7cb"!mLV"!"H@"!Sb8!!
+
+H3D studio (http://www.h3d.com.cn)长期致力于3D网络游戏研发，经过4年多不懈努力，已经建立了一支由清华，北大，北邮，北航等著名高校毕业生组成的，实力强劲且生气勃勃的队伍，公司全部开发人员在40人以上，开发有一款比较成熟的游戏。在第二届ChinaJoy游戏展览中，参加了展出，推出玩家试玩，受到普遍好评。目前游戏正在封闭内测中。
+由于开发项目增多，有大量开发职位空缺，我们邀请各类优秀人才加入：
+1. 客户端程序员(1-2人)
+   职责：
+      3D网游客户端开发
+   要求：
+      1. 熟练掌握C++，有一年以上C++实际开发经验
+      2. 熟练掌握数据结构和游戏开发常用算法
+      3. 有良好的计算机图形学基础，熟悉OpenGL或Direct3D
+      4. 学习能力强，有较强的英文阅读能力
+      5. 有游戏开发经验者优先
+      6. 提供Demo及源代码者优先考虑
+2. 服务器程序开发(1-2人)
+   责任：
+      1 开发并维护游戏服务器
+      2 开发并维护游戏管理(GM)系统
+      3 开发并维护游戏点卡计费系统
+   要求：
+      1 热爱游戏，熟悉至少一种游戏
+      2 熟练掌握数据结构和游戏开发常用算法
+      3 熟悉C++，一年以上C++开发经验
+      4 熟悉socket编程
+      5 善于与人沟通
+3. 游戏脚本开发(2-4人)
+   责任：
+      实现游戏逻辑，无论在技能系统，物品系统，交易系统，团队系统，任务系统，AI等等方面均有需要。
+   要求：
+      1 热爱游戏，熟悉至少一种游戏
+      2 软件开发基础扎实，熟悉面向对象开发
+      3 熟悉python或者C#者尤佳
+      4 对AI有所了解
+4. 编辑器开发 (1-2人)
+   责任：
+      开发游戏所需的各类编辑器。
+   要求：
+      1 热爱游戏，熟悉至少一种游戏
+      2 熟悉delphi或者C#
+      3 熟悉XML
+      4 善于与人沟通
+5. 程序测试人员(2-4人)
+   责任：
+      设计测试用例，编写自动化测试程序。
+   要求：
+      1 热爱游戏，熟悉至少一种游戏
+      2 有实际软件开发经验
+      3 耐心，思维慎密。
+6. 游戏测试人员(10人)
+   责任：
+       测试游戏功能，测试稳定性，测试可玩性
+   要求：
+      1 狂热的游戏爱好者。
+      2 耐心
+简历请发往haigu12@sina.com
+如果附有作品demo或者源代码片断将更有利于我们评价您的水平。
+

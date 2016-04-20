@@ -1,0 +1,109 @@
+Return-Path: <su@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17uGLF021127
+	for <tu@ccert.edu.cn>; Wed, 1 Dec 2004 15:56:17 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:49:22 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:49:22 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 15:49:22 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:04:29 +0800
+Message-ID: <301888269.15440@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 16:04:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:03:50 +0800
+Message-ID: <301888230.09778@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 16:03:49 +0800
+Message-ID: <301888228.14352@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 16:03:49 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 08:03:37 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 08:03:37 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17t3EI021043;
+	Wed, 1 Dec 2004 15:55:03 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB17t35o021042;
+	Wed, 1 Dec 2004 15:55:03 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17rqKa021013;
+	Wed, 1 Dec 2004 15:53:52 +0800
+From: "su" <su@ccert.edu.cn>
+To: tu@ccert.edu.cn
+Cc: <li@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgofSh9CDV0Ma4M0TN+NPOv6q3orywsuLK1MjL1LEgofSh9A==?=
+Date: Wed, 1 Dec 2004 16:05:48 +0800
+Message-ID: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0022_01C4D7BF.9F258C60"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <002301c4d779$cc07e2a0$df54cfdc@WHITESNOW>
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: JRD"!-oE!!+3:!!6YV"!
+
+H3D studio (http://www.h3d.com.cn)长期致力于3D网络游戏研发，经过4年多不懈努力，已经建立了一支由清华，北大，北邮，北航等著名高校毕业生组成的，实力强劲且生气勃勃的队伍，公司全部开发人员在40人以上，开发有一款比较成熟的游戏。在第二届ChinaJoy游戏展览中，参加了展出，推出玩家试玩，受到普遍好评。目前游戏正在封闭内测中。
+由于开发项目增多，有大量开发职位空缺，我们邀请各类优秀人才加入：
+1. 客户端程序员(1-2人)
+   职责：
+      3D网游客户端开发
+   要求：
+      1. 熟练掌握C++，有一年以上C++实际开发经验
+      2. 熟练掌握数据结构和游戏开发常用算法
+      3. 有良好的计算机图形学基础，熟悉OpenGL或Direct3D
+      4. 学习能力强，有较强的英文阅读能力
+      5. 有游戏开发经验者优先
+      6. 提供Demo及源代码者优先考虑
+2. 服务器程序开发(1-2人)
+   责任：
+      1 开发并维护游戏服务器
+      2 开发并维护游戏管理(GM)系统
+      3 开发并维护游戏点卡计费系统
+   要求：
+      1 热爱游戏，熟悉至少一种游戏
+      2 熟练掌握数据结构和游戏开发常用算法
+      3 熟悉C++，一年以上C++开发经验
+      4 熟悉socket编程
+      5 善于与人沟通
+3. 游戏脚本开发(2-4人)
+   责任：
+      实现游戏逻辑，无论在技能系统，物品系统，交易系统，团队系统，任务系统，AI等等方面均有需要。
+   要求：
+      1 热爱游戏，熟悉至少一种游戏
+      2 软件开发基础扎实，熟悉面向对象开发
+      3 熟悉python或者C#者尤佳
+      4 对AI有所了解
+4. 编辑器开发 (1-2人)
+   责任：
+      开发游戏所需的各类编辑器。
+   要求：
+      1 热爱游戏，熟悉至少一种游戏
+      2 熟悉delphi或者C#
+      3 熟悉XML
+      4 善于与人沟通
+5. 程序测试人员(2-4人)
+   责任：
+      设计测试用例，编写自动化测试程序。
+   要求：
+      1 热爱游戏，熟悉至少一种游戏
+      2 有实际软件开发经验
+      3 耐心，思维慎密。
+6. 游戏测试人员(10人)
+   责任：
+       测试游戏功能，测试稳定性，测试可玩性
+   要求：
+      1 狂热的游戏爱好者。
+      2 耐心
+简历请发往haigu12@sina.com
+如果附有作品demo或者源代码片断将更有利于我们评价您的水平。
+

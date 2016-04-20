@@ -1,0 +1,30 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9J9Tnaf026599
+	for <kong@ccert.edu.cn>; Tue, 19 Oct 2004 17:29:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J9BPIC022325
+	for <kong@ccert.edu.cn>; Tue, 19 Oct 2004 17:11:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J9BP3n022324;
+	Tue, 19 Oct 2004 17:11:25 +0800
+Date: Tue, 19 Oct 2004 17:11:25 +0800
+Message-Id: <200410190911.i9J9BP3n022324@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1Nm3or7f09DM9NW90NTK1Mzi?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098177085-22096-6"
+MIME-Version: 1.0
+X-UIDL: *+E"!Oep"!llN!!h^`!!
+
+呵呵……
+已经发过，很多网友mail说没有背景，这次把背景一起贴出来大家一起研究！
+20组数据见附件PP
+左边输入，右边输出！
+找规律！
+背景就是：
+左边的数据是两个RGB颜色，右边两个是其对应的输入颜色的RGB值！寻找这中间的映射规律。
+呵呵……我们可以通过测试知道任何一组输入对应的输出！
+（输入的两个颜色是有顺序的，交换了顺序结果就变，但是结果不是简单的一个交换，另外：一组输入唯一对应一组输出的！）
+大家加油！
+

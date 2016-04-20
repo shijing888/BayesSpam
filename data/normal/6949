@@ -1,0 +1,46 @@
+Return-Path: <ma@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j056IrT0018704;
+	Wed, 5 Jan 2005 14:18:53 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j056IruZ018703;
+	Wed, 5 Jan 2005 14:18:53 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from sky.cugb.edu.cn (cugb.edu.cn [202.204.105.2] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j056IqvB018698
+	for <sun@ccert.edu.cn>; Wed, 5 Jan 2005 14:18:53 +0800
+Received: from cugb.edu.cn ([127.0.0.1]) by sky.cugb.edu.cn
+          (Netscape Messaging Server 4.15) with ESMTP id I9TZOS00.00G for
+          <ccert_forum@ccert.edu.cn>; Wed, 5 Jan 2005 14:36:28 +0800 
+From: "ma" <ma@cugb.edu.cn>
+To: sun@ccert.edu.cn
+Message-ID: <162e4905.4905162e@cugb.edu.cn>
+Date: Wed, 05 Jan 2005 14:36:28 +0800
+X-Mailer: Netscape Webmail
+MIME-Version: 1.0
+Content-Language: zh-CN
+Subject: =?gb2312?B?UmU6IM7EtcfK6cnPtcTSu7XAzOI=?=
+X-Accept-Language: zh-CN
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j056IrvB018701
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: JT~!!Wf@"!:3o!!,J1!!
+
+提供一个思路：
+这里约定：F^T代表矩阵F的转置,F^-1代表矩阵F的逆矩阵
+易证AB是可交换的
+A正定，则A可以分解成A=C*C^T
+B正定，则B可以分解成B＝D*D^T
+则AB=BA可以写成
+C*C^T*D*D^T=D*D^T*C*C^T          －－－－－－－－式1
+然后两边同时左乘以C^-1,同时右乘以C^-1^T,可以得
+C^T*D*D^T*C^T^-1=C^-1*D*D^T*C    －－－－－－－－式2
+此时可以看出式2左边的矩阵相乘的式子相似于D*D^T即为B，B正定，故式2左边的矩阵
+所得的矩阵的特征值全为正实数，而式2左边是由式1做合同变换来的，由于合同变换?
+矩阵的惯性指数，故式1左边相乘的结果的特征值也全为正实数。故AB正定
+: A、B皆为正定矩阵，AB＝BA，证AB亦正定。
+: 请教证法，3x
+

@@ -1,0 +1,65 @@
+Return-Path: <tao@cernet.edu.cn>
+Received: from RavProxy (tu203030.tsinghua.edu.cn [166.111.203.30])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iATD5KAY024419
+	for <qian@ccert.edu.cn>; Mon, 29 Nov 2004 21:05:21 +0800 (CST)
+Message-Id: <200411291305.iATD5KAY024419@sea.net.edu.cn>
+Date: Mon, 29 Nov 2004 21:05:27 +0800
+From: "tao" <tao@cernet.edu.cn>
+Reply-To: tao@cernet.edu.cn
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgo9vV0Ma4o93Psru2087Pt7XEzfjC58jtvP65pLPMyqY=?=
+Organization: Tsinghua University
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iATD5KAY024419
+X-UIDL: 9TN"!k*@"!p%b"!(XZ"!
+
+CE 正在研发如下项目：
+- 通讯玩具的第一个发行版本：gumonji
+- 为重负载专门设计的通讯中间件: VCE
+  (对应如下平台：Win32, Linux, MacOSX, PlayStation2, GameCube)
+- 传统的 MMORPG 引擎：mm-suite
+  (对应如下平台：Win32, Linux, PlayStation2)
+- 基于 P2P 的内容发布平台：LiquidSync
+- 控制 NPC 行为的脚本语言：TESL
+我们要寻找的是有能力通过上述业内领先的产品，创造新的娱乐价值的软件工程师。
+[需要的人数]
+  3名
+[工作的要求,范围]
+  1 Online 通讯工具的开发
+  2 用户间的交流状况的研究,工具开发
+[待遇,职位]
+  月薪 4000元 - 12000元 (能力增长则薪水提高)
+[雇用形式]
+  全职(兼职亦可)
+[必须具有的能力,经验]
+  - C/C++, Ruby, Perl, java 等的程序开发经验
+  - Linux/UNIX 等 POSIX 体系 OS 的使用经验
+  - 一定程度的网络知识
+  - 除了自己负责的项目之外，还要有提出新看法，新意见的能力
+  - 用英语交流的能力
+[希望具有的能力，经验]
+  - 数据挖掘, P2P，社会网络分析,网络游戏,搜索引擎等领域的研发经验
+  - 用日语交流的能力
+  - mysql, PostgreSQL 等的RDBMS的使用经验
+[工作时间]
+  Flex time工作制
+  核心工作时间:13:00-18:00
+  每天工作8小时
+  
+[联络方法]
+  请将包含以下内容的电子邮件发送至 recruit-cn@ce-lab.net 。
+  1. 包括以下内容的求职信(英文或日文)
+   a. 您的职位意向
+   b. 您为什么选择在CE工作?
+   c. ‘按照自己的兴趣\'做的程序或系统的简单的说明(简单说明即可)
+  2. 简历两份(一份英文或日文,一份中文)
+[特别注意]
+  面试的时候,需要说明‘按照自己的兴趣\'做的程序或系统。
+  
+URL:http://cn.ce-lab.net/zh-cn/jobs.html
+

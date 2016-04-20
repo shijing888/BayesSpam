@@ -1,0 +1,44 @@
+Return-Path: <weng@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3C83DUj022895;
+	Tue, 12 Apr 2005 16:03:18 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j3C83DDb022894;
+	Tue, 12 Apr 2005 16:03:13 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3C82lBv022873
+	for <hu@ccert.edu.cn>; Tue, 12 Apr 2005 16:03:02 +0800
+Received: from WHITESNOW (tu203025.ip.tsinghua.edu.cn [166.111.203.25])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j3C8HiDB011211
+	for <hu@ccert.edu.cn>; Tue, 12 Apr 2005 16:17:44 +0800 (CST)
+Message-ID: <003401c53f38$6416c720$19cb6fa6@WHITESNOW>
+From: "weng" <weng@cernet.edu.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u9zMjnus60021hdGxhYsrks/bSu7j2vt/T0DYwMCBkcGm1xHRpZma48cq9tcTNvMaso78g
+KNeq1Ng=?=
+Date: Tue, 12 Apr 2005 16:19:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_0032_01C53F7B.6EF93400"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: &@#"!?@Z!!B$]!!D?]"!
+
+【 以下文字转载自 Graphics 讨论区 】
+发信人: bravewolf (六成安心七八涅磐·815), 信区: Graphics
+标  题: 请教如何从matlab输出一个具有600 dpi的tiff格式的图片？ (转载
+发信站: 水木社区 (Thu Jul 21 22:07:04 2005), 站内
+发信人: bravewolf (六成安心七八涅磐·815), 信区: Paper
+标  题: 请教如何从matlab输出一个具有600 dpi的tiff格式的图片？
+发信站: 水木社区 (Thu Jul 21 22:06:54 2005), 站内
+发信人: bravewolf (六成安心七八涅磐·815), 信区: MathTools
+标  题: 请教如何从matlab输出一个具有600 dpi的tiff格式的图片？
+发信站: 水木社区 (Thu Jul 21 22:05:50 2005), 站内
+具体语句是什么？
+希望大虾赐教。
+

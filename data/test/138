@@ -1,0 +1,50 @@
+Return-Path: <lu@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO9aNr2021173
+	for <pu@ccert.edu.cn>; Wed, 24 Nov 2004 17:36:25 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 17:49:08 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 17:49:08 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: ys@compass.net.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 17:49:08 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 17:44:36 +0800
+Message-ID: <301289476.11048@eyou.net>
+Received: from 202.38.188.130 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 17:44:34 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id RAA10413
+	for <pu@ccert.edu.cn>; Wed, 24 Nov 2004 17:52:01 +0800 (CST)
+Message-ID: <41A45862.2080008@compass.net.edu.cn>
+Date: Wed, 24 Nov 2004 17:46:10 +0800
+From: Shaozhi Ye <lu@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXiuPbD5srUzOKjrMutu+HX9rCho78=?=
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-UIDL: 56,!!i$o"!SP-"!;io"!
+
+  小明能肯定小强不知道
+  说明小明拿到的月份肯定不含7日和2日这两个唯一的日期
+  只能是3月或者9月
+  小强知道是3月或者9月以后
+  能够知道张老师的生日是哪一天
+  那个日子肯定不可能是5日，否则他就没法确定是3月5日还是9月5日了
+  现在还剩下3月4日，3月8日，9月1日三个日期
+  而最后小明也知道了
+  那只能是9月1日了
+  否则小明怎么知道是3月4日还是3月8日呢？
+小明和小强都是张老师的学生，张老师的生日是M月N日，2人都知道张老师的生日 
+是下列10组中的一天，张老师把M值告诉了小明，把N值告诉了小强，张老师问他们知道他
+的生日是那一天吗？ 
+3月4日 3月5日 3月8日 
+6月4日 6月7日 
+9月1日 9月5日 
+12月1日 12月2日 12月8日 
+小明说：如果我不知道的话，小强肯定也不知道 
+小强说：本来我也不知道，但是现在我知道了 
+小明说：哦，那我也知道了 
+请根据以上对话推断出张老师的生日是哪一天  
+

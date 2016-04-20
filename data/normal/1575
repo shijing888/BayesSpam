@@ -1,0 +1,37 @@
+Return-Path: <yi@tsinghua.edu.cn>
+Received: from huhoo (point.ccert.edu.cn [202.112.50.3])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8K4Bg81028029;
+	Mon, 20 Sep 2004 12:11:42 +0800 (CST)
+From: "yi" <yi@tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Cc: =?gb2312?B?J0ppemhhbmcgWWFuZ1wo0e68zNXFXCkn?= <han@ccert.edu.cn>,
+        "'Tran Quang Anh'" <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILXctdy98cTqyc+089Gnz+vIw8v7v7TSu9Cpvq215Mas19M=?=
+Date: Mon, 20 Sep 2004 12:09:12 +0800
+Message-ID: <00d401c49ec7$961efbf0$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00D5_01C49F0A.A4423BF0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+X-UIDL: 3TJ"!@l'"!dmH!!GYk"!
+
+imdb上写的有
+转过来
+The formula for calculating the Top Rated 250 Titles gives a true Bayesian 
+estimate:
+weighted rank (WR) = (v ÷ (v+m)) × R + (m ÷ (v+m)) × C 
+where:  
+R = average for the movie (mean) = (Rating)  
+v = number of votes for the movie = (votes)  
+m = minimum votes required to be listed in the Top 250 (currently 1250)  
+C = the mean vote across the whole report (currently 6.8)
+:   是啊，我的理解就是，所有影片都有观众打分，然后平均就是
+: 这个影片的imdb分数。但是如果打分的观众太少就不能上排行榜，
+: 比如至少要1万名观众打过分才行。是不是这样？
+: ...................
+

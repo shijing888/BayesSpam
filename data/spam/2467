@@ -1,0 +1,39 @@
+Return-Path: <xiao@cernet.com>
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j6E0PYrV021898
+	for <lian@ccert.edu.cn>; Thu, 14 Jul 2005 08:25:34 +0800 (CST)
+Received: from wycomputer ([202.112.0.114])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IJL00193E4XHQ@mail.cernet.com> for
+ secman-list@ccert.edu.cn; Thu, 14 Jul 2005 08:46:10 +0800 (CST)
+Date: Thu, 14 Jul 2005 08:40:38 +0800
+From: =?gb2312?B?zfXR0g==?= <xiao@cernet.com>
+Subject: =?gb2312?B?ufq8yrulwaq5pbv3?=
+To: lian@ccert.edu.cn
+Cc: gu@ccert.edu.cn
+Reply-to: =?gb2312?B?zfXR0g==?= <wangyan2@cernet.com>
+Message-id: <006601c5880c$ad1c3820$720070ca@wycomputer>
+Organization: CERNOC
+MIME-version: 1.0
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+
+2005-07-14 06：25---08：15
+国际互联流量异常，经检查，攻击源为以下网段
+218.193.0.0/19 
+219.222.16.0/20     
+210.43.32.0/21     
+202.114.0.0/16      
+218.197.32.0/20
+
+攻击目的网段为 72.20.0.0/16
+
+源目的端口分散，包大小40字节，初步分析是DDOS攻击。
+
+附件里是该时段包数的流量图，请CCERT协助检查，谢谢。
+
+                             王岩（cernoc）

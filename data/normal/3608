@@ -1,0 +1,37 @@
+Return-Path: <zhuang@cernet.edu.cn>
+Received: from user-7bkbiq72wz (tu203023.tsinghua.edu.cn [166.111.203.23])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iAB2IVDK020380;
+	Thu, 11 Nov 2004 10:18:31 +0800 (CST)
+Message-Id: <200411110218.iAB2IVDK020380@sea.net.edu.cn>
+From: "zhuang" <zhuang@cernet.edu.cn>
+To: zhan@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Fw: =D3=EB=C6=F4=C3=F7=D0=C7=B3=BD=BD=BB=C1=F7?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Thu, 11 Nov 2004 10:14:59 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id iAB2IVDK020380
+X-UIDL: DM+!!EY-"!AI7!!,EU"!
+
+个人认为还是先 宽度优先，然后再深度查找 
+毕竟范围 是首要问题 
+用树结构 比较简单形象 。。
+设立相应的权值  不能在一个子树上掉死。。卡卡 
+当 范围打开后，就可以在子树上查找 。。至于这个算法，我还没想出来。。。。
+: 标  题: Re: 征人告诉我怎样认识PPMM
+: 发信站: 水木社区 (Sun Jul 10 19:14:01 2005), 站内
+: 
+: 研究图算法时发明了一个深度优先与宽度优先搜索相结合的好算法，到这里也可以适用吗？理论怎么联系实际？
+: 
+: : 应该往宽了挖！
+: : 挖无可挖了，再往深挖 ！
+: 
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 219.234.81.*]
+

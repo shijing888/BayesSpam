@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//data/normal/1=UTF-8
+encoding//src/emailparser.py=utf-8
+encoding//src/htmltotext.py=utf-8
+encoding//src/judgemail.py=utf-8
+encoding//src/spam/spamEmail.py=utf-8
+encoding//src/splitwords.py=utf-8
+encoding//src/splitwords_trie.py=utf-8
+encoding//src/trainmodule.py=utf-8
+encoding//src/ttss.py=utf-8
+encoding/data=UTF-8

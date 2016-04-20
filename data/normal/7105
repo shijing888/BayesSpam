@@ -1,0 +1,51 @@
+Return-Path: <xue@cernet.edu.cn>
+Received: from WHITESNOW ([220.207.80.209])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBK84Ul5013395
+	for <wang@ccert.edu.cn>; Mon, 20 Dec 2004 16:04:33 +0800 (CST)
+Message-ID: <001401c4e66a$8e087fa0$d150cfdc@WHITESNOW>
+From: "xue" <xue@cernet.edu.cn>
+To: wang@ccert.edu.cn
+References: <000501c4e65f$9e978bf0$18cb6fa6@CCERTDAWEI>
+Subject: Re: Chinese_rules.cf FAQ
+Date: Mon, 20 Dec 2004 16:04:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0011_01C4E6AD.97B1D040"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 2J>"!8aT!!Hd2!!>=!#!
+
+负责RTL设计, 和SOC验证
+RTL设计人员熟悉verilog就行
+验证人员负责SOC验证, 包括BFM编写, testcase编写
+另外招一个对unix熟的, 负责perl, shell scripts, 和cvs管理
+要求:
+     RTL工程师熟悉VERILOG, 做过至少一个小项目.
+     验证工程师要求熟悉计算机原理, 有过嵌入式系统经验就可以
+     最后一个熟悉unix基本就可以
+还有今年毕业没找到工作 或 对工作不满意的吗? 
+寄简历到 weichyan@163.com
+别回站内了
+中英文各一份吧, 还有人要看英文的
+我们头拟的verification的原始requirements 和JD:
+我觉得要求太高, 改成上面这样的
+SOC Verification Engineer 
+ 
+Requirement:
+*       Familiar with ASIC/SOC verification flow.
+*       Proficient in Verilog, C/C++, Unix-Shell scripting/Perl scripting.
+*       Familiar with HDL-Lint , Gate-level simulations, Equivalence checking.
+*       Minimum of MSEE or MSCS
+*       3+ Years experience
+ 
+Job description:
+*       Maintain SOC level test environment for regression automation.
+*       Maintain design code revision control, like CVS.
+*       Maintain flow for quality RTL deliverables for synthesis, verification, DFT, coding style and naming scheme  by use of lint programs.
+*       Maintain flow for RTL Vs. Gate-level netlist Equivalence checking.
+*       Ideal person will play a support role in the overall verification of SOC design.
+ 
+

@@ -1,0 +1,60 @@
+Return-Path: <xia@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9IEXRvX026825
+	for <gong@ccert.edu.cn>; Mon, 18 Oct 2004 22:33:29 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 22:44:31 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 22:44:26 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 18 Oct 2004 22:44:26 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9IEdJlj025902
+	for <gong@ccert.edu.cn>; Mon, 18 Oct 2004 22:39:30 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9IEdGkr025898
+	for <gong@ccert.edu.cn>; Mon, 18 Oct 2004 22:39:16 +0800
+Received: from [61.48.105.0] (helo=[192.168.0.8])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CJYo5-0001dZ-00
+	for toefl@server.cool-meeting.com; Mon, 18 Oct 2004 22:48:18 +0800
+Mime-Version: 1.0 (Apple Message framework v619)
+To: gong@ccert.edu.cn
+Message-Id: <37301EDC-2112-11D9-B5B9-000D93AF6D96@ns.6test.edu.cn>
+From: CHEN Maoke <xia@ns.6test.edu.cn>
+Subject: =?gb2312?B?ofEgobbQwsrAvM3TotPvobfKudPD1tC1xM7KzOK6zb3ivvYot8e52be9KQ==?=
+Date: Mon, 18 Oct 2004 22:30:10 +0800
+X-Mailer: Apple Mail (2.619)
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============28727708915062822=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: a*!#!gA-!!hQO!!IA;!!
+
+声明: 本人非官方人员,一下内容只是自己做的一个总结,希望对大家有帮助
+0. 安装方法
+   插入光盘，如果自动运行则更好，如果没自动运行，则请运行光盘中的 autorun.exe
+   按顺序，依次点第一、二、三个按钮。
+   按照提示安装，在前一个安装完成前不要急着点下一个安装。
+1. 重复朗读的地方会死机
+   恭喜你又遇到一张烂盘,解决方法是找能正常使用的同学借盘
+2. 安装上后提示文件等的错误
+   尽量不要修改默认安装路径, 就让系统装到C盘里去好了.
+   (另外, 这套系统好像不支持目录中有空格?)
+3. ip 输入错误,后来没机会修改了怎么办?
+   找到安装路径, 比如C:\\NewEraEnglish\\ListeningN\\Level3
+   打开里面的 remote.ip.txt , 把内容设置为
+[Server]
+ServerIP=166.111.6.250
+待续，欢迎补充
+

@@ -1,0 +1,34 @@
+Return-Path: <qian@cernet.edu.cn>
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j3T0pRP4021087;
+	Fri, 29 Apr 2005 08:51:28 +0800 (CST)
+From: "qian" <qian@cernet.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgbWt2uPHKvdfWxLuypbfFt723qCh6eik=?=
+Date: Fri, 29 Apr 2005 08:48:16 +0800
+Message-ID: <000e01c54c55$22431540$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id j3T0pRP4021087
+X-UIDL: ,1C"!_$Q"!))$#!_V*#!
+
+mkv格式文件使用软字幕，字幕显示方式实际和vobsub加载外挂字幕一样。有两种方法：
+一、使用vobsub。经多方试验，2.27版本以上的vobsub基本可以稳定播放mkv格式内字幕。由于需要注册，所以稍显麻烦。
+首先下载vobsub，压缩包内应有两个目录，一个是Release，一个是Release unicode，两个目录里都有vsfilter.dll文件。前者用于98/me，后者unicode用于2k/xp比较好。安装更准确的应说为注册。解压相应的vsfilter.dll到system(98/me)或system32(2k/xp)下。
+然后在 开始-&gt;运行 中输入“regsvr32 vsfilter.dll”后即注册成功。如果出现问题，也可解压至其他目录，然后在注册时输入完整路径即可。比如解压到C:\\\\vobsub\\\\，注册时就输入“regsvr32 C:\\\\vobsub\\\\vsfilter.dll”即可。
+进入控制面板则在运行里输入“rundll32 vsfilter,DirectVobSub”。注意DirectVobSub的大小写。
+这里给出2.29版的镜像：
+http://prdownloads.sourceforge.net/...29.zip?download
+二、使用media player classic的DirectShow filter播放字幕。众所周知，media player classic就是vobsub的作者gabest开发的。因此mpc自己也可以播放一些字幕文件，当然也包括mkv的软字幕。方法是在view-&gt;options-&gt;playback-&gt;output-&gt;video里面选择video mixing renderer 7/9 (renderless)的两个之一。其中VMR7需要Windows XP系统，9需要DirectX9支持。中文版为“查看-&gt;选项-&gt;回放-&gt;输出-&gt;视频”，“视频合成渲染器7/9（无转换）”。选好后重启mpc就可以在play-&gt;subtitle里面控制字幕了。
+自带的字幕是通过一个textpass滤镜 转为相应的字幕 然后和解码后的图像一起mix到屏幕上的 所以比较节省资源
+而vsfilter是通过截获ffdshow解码的图像 然后在把字幕图像复合在一起 再交给显卡来显示字幕 相对来说对于cpu的消耗要大一点
+

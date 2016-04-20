@@ -1,0 +1,90 @@
+Return-Path: <zhou@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8S4m1qq029124
+	for <xing@ccert.edu.cn>; Tue, 28 Sep 2004 12:48:03 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:58:14 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:58:13 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 28 Sep 2004 12:58:13 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8S4nQlf022410
+	for <xing@ccert.edu.cn>; Tue, 28 Sep 2004 12:49:34 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8S4nOkr022406
+	for <xing@ccert.edu.cn>; Tue, 28 Sep 2004 12:49:24 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:39:48 +0800
+Message-ID: <296346388.28750@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+	by 127.0.0.1 with SMTP; Tue, 28 Sep 2004 12:39:48 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 28 Sep 2004 04:39:46 -0000
+Received: from tu172175.tsinghua.edu.cn (HELO hoho)
+	(zhuyangbo99@166.111.172.175)
+	by mails.tsinghua.edu.cn with SMTP; 28 Sep 2004 04:39:46 -0000
+Date: Tue, 28 Sep 2004 12:51:17 +0800
+From: "zhou" <zhou@mails.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0v7TV4rXAw+bK1Mzi1PXDtNH5o78=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	i8S4nOkr022406
+Cc: =?gb2312?B?zfjC59bQ0MRUb2VmbMzWwtvX6Q==?= <lei@ccert.edu.cn>
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ,O*!!Qh%!!jUj"!=!8!!
+
+怎么对了?！！!
+取队伍为参考系是吧，而且是个惯性参考系
+而最后衡量传令兵的参考系是地面参考系，也是惯性参考系，是吧
+200是在前一参考系中传令兵走的距离，而不是位移（位移是0）；
+而100则是前一参考系相对于地面参考系的位移，也是距离；
+两个参考系只有位移能直接联系，包括相对论中的参考系。
+你怎么就把一个惯性参考系中的位移和另一个惯性参考系中距离（或者两个距离）直接联系起来了？物理依据是什么？
+真不知道是谁教的大物，直接开了得了。
+要说清华有班能做出10种答案，明显是拿清华扯淡
+: 标  题: Re: 看看这道面试题怎么样？
+: 发信站: 水木社区 (Thu Jul 21 00:29:08 2005), 站内
+: 
+: 你这个是对的，呵呵
+: 思路正确，数学分析就难了。
+: 传令兵以队伍作为参考系
+: 从排尾走到排头再到排尾，是200，加上队伍的100，应该是300吧
+: : 一列队伍长100米正在行进，传令兵从排尾走到排头，又从排头走到排尾，这列队伍正好前进了100米，已知队伍的速度和传令兵的速度保持不变!问传令兵走了多少米? 
+: : 据说拿到清华某班作出10种答案,谁知道怎么做吗？
+: 
+: 
+: --
+:    ,-"$|       
+:   (\\_ /+        
+:    \\_\\(          
+:    .-  \\         
+:   |    }        
+:  (| { //        
+: 
+: 
+: 
+: 
+: --
+: 
+※ 修改:·cku 于 Jul 21 08:21:05 修改本文·[FROM: 59.66.142.*]
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.113.19.*]
+

@@ -1,0 +1,43 @@
+Return-Path: <zhou@cernet.edu.cn>
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j4J6Wa7r005665;
+	Thu, 19 May 2005 14:32:36 +0800 (CST)
+From: "zhou" <zhou@cernet.edu.cn>
+To: chen@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuLfAu/DHvbjfvLa8vMr11qez1rmks8zKpiAo16rU2Ck=?=
+Date: Thu, 19 May 2005 14:28:33 +0800
+Message-ID: <001001c55c3c$00a69f00$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j4J6Wa7r005665
+X-UIDL: c)W!!=nj"!EmJ"!]j+"!
+
+水木信安（北京）技术有限公司招聘防火墙技术支持高级工程师
+要求：
+-　熟悉TCP/IP协议，了解三次握手、MTU Discovery、TOS等知识
+-　了解常用应用层协议（比如HTTP/SMTP协议），
+   可以使用Telnet手工模拟HTTP请求，SMTP请求等
+-　熟悉sniffer/tcpdump工具，熟练使用各种过滤规则
+-　熟悉网络主机在MAC层的各项活动，了解ARPProxy，ARPing的请求和回应两种模式，
+   熟知ARP Cache和过期，了解ARP欺骗
+-　熟悉iptables，熟知INPUT/OUTPUT/FORWARD/PREROUTING/POSTROUTING/nat/filter的
+   位置，熟知ACCEPT/DROP/REJECT/SNAT/DNAT/REDIRECT/LOG/MARK/MASQUERADE等使用，
+   熟悉Netfilter Extention模块功能（limit/iprange/multiport等)。
+-　熟悉iproute2，能够针对各种需求配置QoS（tc），策略路由（ip rule/ip route）。
+-　至少熟练掌握一门脚本语言（SH/Perl/Python/PHP），可以通过编程快速进行形如
+   路由表转换（如从cisco IOS格式转换为iproute2格式）等操作。
+-　优先考虑具有大量GNU/Linux网络服务应用经验的人才
+工作地点：上地国际科技创业园
+待遇：面议
+有意者请将简历发送到 hr@aka.cn，标题注明[newsmth] 应聘防火墙高级技术支持工程师
+邮件请附上自己的详细经验说明和作品。
+

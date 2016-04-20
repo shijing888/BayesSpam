@@ -1,0 +1,30 @@
+Return-Path: <guan@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAF4uuok028912
+	for <gan@ccert.edu.cn>; Mon, 15 Nov 2004 12:56:56 +0800 (CST)
+Received: (eyou send program); Mon, 15 Nov 2004 12:51:39 +0800
+Message-ID: <300494299.15007@mails.tsinghua.edu.cn>
+Received: from 219.224.217.39 by mails.tsinghua.edu.cn with HTTP; Mon, 15 Nov 2004 12:51:39 +0800
+X-WebMAIL-MUA: [219.224.217.39]
+From: "guan" <guan@mails.tsinghua.edu.cn>
+To: gan@ccert.edu.cn
+Date: Mon, 15 Nov 2004 12:51:39 +0800
+Reply-To: "guan" <guan@mails.tsinghua.edu.cn>
+Subject: Re: 请问SVM能否用于流量异常检测？
+Content-Type: text/plain
+X-UIDL: ,Kd"!`?m"!]]n!!*XE!!
+
+他是以队伍为参考系，
+100/（v1-v2）是追上排头所用的时间
+100/（v1+v2）是回到队尾所用的时间
+我说个以地面为参考系的吧
+设追上排头时，队伍前进了L米
+（100+L）/v1=L/v2
+L/v1=（100-L）/v2
+此两式联立可消去v1和v2，求得L
+久了不做数学题，感觉狂不适应啊：（
+: 弱弱地问一下：100/（v1－v2）  还有100/（v1＋v2）是什么东西？（尤其不理解为什么是用100来除？）
+: 100/v2我知道是队伍走100米用的时间！^_^
+: 100/v2 * v1，我也知道就是那个兵走的总路程！：）
+: ...................
+

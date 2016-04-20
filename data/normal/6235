@@ -1,0 +1,35 @@
+Return-Path: <liu@cernet.edu.cn>
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB33DPW7019805;
+	Fri, 3 Dec 2004 11:13:25 +0800 (CST)
+From: "liu" <liu@cernet.edu.cn>
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMilzqLI7df2zeKw/LrDsru6w7Ch?=
+Date: Fri, 3 Dec 2004 11:12:15 +0800
+Message-ID: <001f01c4d8e5$e41442e0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id iB33DPW7019805
+X-UIDL: A9G"!gjg!!C8H"!-*:"!
+
+要多正规的公司才能跟ms的正规程度比？
+别的公司学到的东西虽然也叫这名字
+那就可以跟windows team这种数万人参与的软件工程方式相比么？
+ms小的team也遵循相同的方式，不过是不同的实施
+atc的dev基本是就是coding
+test则可以cover到软件流程的很多方面
+所以我只是说在这里test可以学很多东西
+: 只要稍微正规一些的软件公司，都会做dailybuild
+: 只要不是一个人开发，都会做源代码管理
+: 只要公司有专门的测试人员，就有bug跟踪这个任务
+: ...................
+

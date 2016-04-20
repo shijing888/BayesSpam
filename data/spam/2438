@@ -1,0 +1,20 @@
+Return-Path: <qiu@null.com>
+Received: from mail.hz.zj.cn ([202.101.172.7])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j6DNThcS021664
+	for <rao@ccert.edu.cn>; Thu, 14 Jul 2005 07:29:43 +0800 (CST)
+From: qiu@mail.hz.zj.cn <>
+Message-Id: mail2.hz.zj.cn.1194.1346267.1121297907
+To: rao@ccert.edu.cn
+Date: Thr, 14 Jul 2005 07:38:27 +0800
+Subject: =?gb2312?B?wLTX1CBtYWlsLmh6LnpqLmNuILXEzcvQxQ==?=
+Content-type: multipart/report; report-type=delivery-status; boundary=aimc
+X-Auto-Forward: $org_auto_forward
+
+ 动作: 失败
+
+没有能够发送到以下的收件人:
+
+ jack "(0), ErrMsg=mail box space not enough, account=jack "
+
+不会再有任何动作来尝试发送你的邮件了。 请联系你的系统管理员或先通过其它非电子邮件的方式向你的朋友发送信息以免耽误。 
+

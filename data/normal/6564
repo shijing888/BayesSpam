@@ -1,0 +1,35 @@
+Return-Path: <guan@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9D3JIDW001878
+	for <ding@ccert.edu.cn>; Wed, 13 Oct 2004 11:19:18 +0800 (CST)
+Received: (eyou send program); Wed, 13 Oct 2004 11:14:08 +0800
+Message-ID: <297637248.71768@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 13 Oct 2004 11:14:08 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 13 Oct 2004 03:13:58 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 13 Oct 2004 03:13:58 -0000
+Message-ID: <007301c4b0d4$1a9479f0$aa3270ca@lulh>
+From: "guan" <guan@mails.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7K0ru49rzS08O/7bT4tcTPwtTYzsrM4g==?=
+Date: Wed, 13 Oct 2004 11:24:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_006F_01C4B117.24FFBB00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: /j/"!nOT"!<4V!!G%="!
+
+  我觉得flashget最方便的地方就是对下载的东西的管理做得很不错
+  你要是不喜欢让它多线程下载，把那个最小分段大小改到最大，这样
+小于100M的文件它都是单线程下载了
+: 比如下载软件时，你一点某个链接，系统回弹出“保存”的窗口，
+: 下面有一个（打对号）可选项,“以后下载该类软件是否”，大概就是这么回事。
+: 问题是：我一次选了此项后，下载软件就老保存在“临时文件夹”里拉，
+: ...................
+

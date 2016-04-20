@@ -1,0 +1,37 @@
+Return-Path: <tan@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9D3Xdoe002163
+	for <jiang@ccert.edu.cn>; Wed, 13 Oct 2004 11:33:39 +0800 (CST)
+Received: (eyou send program); Wed, 13 Oct 2004 11:28:30 +0800
+Message-ID: <297638110.00357@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 13 Oct 2004 11:28:30 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 13 Oct 2004 03:28:29 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 13 Oct 2004 03:28:29 -0000
+Message-ID: <007e01c4b0d6$216d7d10$aa3270ca@lulh>
+From: "tan" <tan@mails.tsinghua.edu.cn>
+To: jiang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9DFusXT68+1zbNdIMzixL/M1sLb?=
+Date: Wed, 13 Oct 2004 11:38:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_007B_01C4B119.2E716A60"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: ~M`"!I*4!!UpN!!NRL"!
+
+问一个比较简单的题目，关于判断是否是时不变系统
+r(t)=e(1-t) (答案是 时变系统)
+其中r(t)是响应,e(t)是激励
+我的想法是  先经过系统再延时，响应为 r(t-t0)=e(1-(t-t0))=e(1-t+t0);
+            先延时再经过系统，响应为 r\'(t)=e(1-(t-t0))=e(1-t+t0)      (1)式
+                                     r\'(t)=e(1-t-t0)=e(1-t-t0)        (2)式
+我不明白的是为什么激励延时之后变为e(t-t0)经过系统，系统函数中的t不是将
+(t-t0)整体看作t而是仅仅将t代入而排除t0?
+谢谢
+
